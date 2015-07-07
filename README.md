@@ -18,7 +18,7 @@ var images = range(6)
 
 Result: 
 
-```json
+```js
 [
   'assets/skyboxes/cloudy-px.png',
   'assets/skyboxes/cloudy-nx.png',
