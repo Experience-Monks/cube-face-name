@@ -1,0 +1,39 @@
+{
+  "name": "cube-face-name",
+  "version": "1.0.0",
+  "description": "gets a name like \"px\" or \"pz\" for a cube map face",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "cube",
+    "map",
+    "gl",
+    "opengl",
+    "stackgl",
+    "name",
+    "names",
+    "direction",
+    "orientation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/cube-face-name.git"
+  },
+  "homepage": "https://github.com/Jam3/cube-face-name",
+  "bugs": {
+    "url": "https://github.com/Jam3/cube-face-name/issues"
+  }
+}
